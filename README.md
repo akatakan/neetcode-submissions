@@ -5,7 +5,7 @@ Merhaba! Ben **@akatakan**. 👋
 Bu depo, [NeetCode.io](https://neetcode.io) platformunda yer alan algoritma ve veri yapıları problemlerine getirdiğim çözümleri içermektedir. Çözümlerin tamamı platform üzerinden GitHub hesabımla otomatik olarak senkronize edilmektedir.
 
 ## 🎯 Amacım
-Bu repoyu oluşturmaktaki temel amacım, problem çözme yeteneklerimi geliştirmek ve mülakatlara hazırlık sürecimi dokümante etmektir. Kodlarımı yazarken algoritmik optimizasyona ve veri yapılarını doğru kullanmaya büyük önem veriyorum. Özellikle Python kullanarak **doğrusal zaman karmaşıklığına (O(n))** ulaşmak ve örneğin *Sliding Window Maximum* gibi problemleri daha verimli hale getirmek ana hedeflerimden biridir.
+Bu repoyu oluşturmaktaki temel amacım, problem çözme yeteneklerimi geliştirmek ve mülakatlara hazırlık sürecimi dokümante etmektir. Kodlarımı yazarken algoritmik optimizasyona ve veri yapılarını doğru kullanmaya büyük önem veriyorum. Özellikle Python kullanarak **doğrusal zaman karmaşıklığına (O(n))** ulaşmak ve örneğin *Sliding Window Maximum* gibi problemleri daha verimli hale getirmek ana hedeflerimden biri.
 
 ## 📂 Depo Yapısı
 Çözümlerim temel algoritma konularına göre klasörlenmiştir. Repoda bulabileceğiniz başlıca konu başlıkları ve çözdüğüm bazı problemler şunlardır:
