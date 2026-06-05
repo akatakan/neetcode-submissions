@@ -1,6 +1,6 @@
 # 🚀 NeetCode Algoritma ve Veri Yapıları Çözümlerim
 
-Merhaba! Ben **@akatakan**. 👋
+Merhaba! Ben **Atakan AK**. 👋
 
 Bu depo, [NeetCode.io](https://neetcode.io) platformunda yer alan algoritma ve veri yapıları problemlerine getirdiğim çözümleri içermektedir. Çözümlerin tamamı platform üzerinden GitHub hesabımla otomatik olarak senkronize edilmektedir.
 
